@@ -10,7 +10,11 @@ How to run the script?
 * Node.js allows us to run any javascript file outside a web browser.
 
 Step 1: Download the raw file "bigBang.js" from folder Javascript_bigBang.
+
 Step 2: Open the file from Microsoft Visual Studio.
+
 Step 3: Run the javascript file.
+
 Step 4: A message "output.json file created successfully" should display at debug console.
+
 Step 5: Verify the output from the "output.json" file.
